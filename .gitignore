@@ -1,9 +1,10 @@
-_site
-.sass-cache
-.jekyll-cache
+_site/
+.sass-cache/
+.jekyll-cache/
 .jekyll-metadata
-vendor
+.bundle/
+vendor/
 
-## for MacOS
+# for MacOS (optional)
 **/.DS_Store
 .DS_Store
