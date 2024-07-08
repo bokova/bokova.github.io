@@ -5,6 +5,5 @@
 layout: home
 ---
 
-- [Jak vypočítat DPH a nesplést se](/jak-vypocitam-zaklad-dane.html)
+- [Jak vypočítat DPH a nesplést se](/jak-vypoctu-zaklad-dane.html)
 - [Jak vypočítat DPH a nesplést se (od roku 2019)](/jak-vypocitat-dph-a-nesplest-se-2019.html)
-
