@@ -5,7 +5,7 @@ date:   2015-11-09 12:00:00 +0200
 categories: 
 ---
 
-**Prosím pozor, článek jsme aktualizovali na rok 2019. Najdete jej zde:  [Jak vypočítat DPH a nesplést se (od roku 2019)](/jak-vypocitat-dph-a-nesplest-se-2019/)**
+**Prosím pozor, článek jsme aktualizovali na rok 2019. Najdete jej zde:  [Jak vypočítat DPH a nesplést se (od roku 2019)](/jak-vypocitat-dph-a-nesplest-se-2019.html)**
 
 Na první pohled jednoduché zadání, zmást ale může kdekoho. Debata se známým, který nedávno padl do podobné pasti mě inspirovala k tomuto článku. Zkuste si představit: Připravujete účet a v něm potřebujete rozepsat položky. Ke každé doplnit cenu bez daně, částku která zodpovídá DPH a cenu s daní. Máte ale jenom podklady kde jsou ceny položek již s DPH:  
 
